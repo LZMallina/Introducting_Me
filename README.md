@@ -11,12 +11,15 @@ Frontend and backend development, Data analysis, and Machine Learning.
 #What Software and Programming languages I have used?
 
 ##Data Analysis:
+
 Microsoft Excel, Googlesheet, Tableu, SQL, R
 
 ##Frontend Development
+
 HTML, CSS, Javascript, React, jQuery, Data.js
 
 ##Backend Development
+
 Java
 
 #What am I working on?
