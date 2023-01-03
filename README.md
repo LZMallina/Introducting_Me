@@ -18,7 +18,7 @@ Microsoft Excel, Googlesheet, Tableu, SQL, R
 
 HTML, CSS, Javascript, React JS, jQuery, Data.js
 
-### Frontend Librarys
+### Frontend Libraries
 * Bootstrap
 * Chart.js
 * Chakrua -ui
