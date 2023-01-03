@@ -16,7 +16,13 @@ Microsoft Excel, Googlesheet, Tableu, SQL, R
 
 ## Frontend Development
 
-HTML, CSS, Javascript, React, jQuery, Data.js
+HTML, CSS, Javascript, React JS, jQuery, Data.js
+
+### Frontend Librarys
+* Bootstrap
+* Chart.js
+* Chakrua -ui
+* Formik
 
 ## Backend Development
 
